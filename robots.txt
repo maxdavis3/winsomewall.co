@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://winsomewall.co/sitemap.xml
